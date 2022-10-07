@@ -4,14 +4,24 @@
     text-decoration: none;
 
 }
-
+header{
+    font-size: 40px;
+}
 body{
 display: flex;
 justify-content: center;
 align-items: center;
-background-image: url();
+background-image: url(images\ \(4\).jpeg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 background-blend-mode: luminosity;
+gap: 50px;
+}
+.image{
+    width: 300px;
+}
+.p{
+    padding: 5px;
+    text-align: justify;
 }

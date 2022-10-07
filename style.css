@@ -15,9 +15,9 @@ flex-direction: column;
 
 #cabecalho{
     margin-block-end: auto;
-    background-color: rgb(150, 95, 95);
+    background-color: rgb(255, 2, 2);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(0, 0, 0);
+    color: rgb(235, 13, 13);
     display: flex;
 flex-direction: row;
 align-items: center;
@@ -46,8 +46,8 @@ margin-top: 1px;
     }
 
 .item-botao:hover{ 
-background-color: rgb(169, 169, 179);    
+background-color: rgb(27, 27, 216);    
 border: none;
-box-shadow: 4px 5px 4px rgb(17, 25, 41);
+box-shadow: 4px 5px 4px rgb(3, 75, 218);
 border-radius: 20px;
 }
